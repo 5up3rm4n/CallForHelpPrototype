@@ -1,0 +1,27 @@
+<!DOCTYPE>
+<html>
+    <body>
+  <div class= "nav" >
+    <div class= "container">
+  
+      <ul>
+        <li> Home </li>
+        <li> About </li>
+        <li> Contact Us </li>
+      </ul>
+    
+    </div>
+  </div>
+  
+  <div class= "jumbotron">
+  <div>
+    <h3>Talk</h3>
+    <p>Talk anonymously to our volunteers about what problems you may be facing.</p>
+    </div>
+    <div class= "container">
+      <h1> Call For Help </h1>
+      <p> Talk to people the will listen and take you seriously when you are being discriminated against or you see someone being discriminated against. </p>
+    </div>
+  </div>
+    </body>
+</html>
