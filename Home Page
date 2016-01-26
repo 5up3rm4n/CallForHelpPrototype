@@ -13,15 +13,16 @@
     </div>
   </div>
   
-  <div class= "jumbotron">
-  <div>
-    <h3>Talk</h3>
-    <p>Talk anonymously to our volunteers about what problems you may be facing.</p>
-    </div>
+<div class= "jumbotron">
+  <div class= "learn-more">
     <div class= "container">
       <h1> Call For Help </h1>
       <p> Talk to people the will listen and take you seriously when you are being discriminated against or you see someone being discriminated against. </p>
     </div>
+  </div>
+  <div>
+    <h3>Talk</h3>
+    <p>Talk anonymously to our volunteers about what problems you may be facing.</p>
   </div>
     </body>
 </html>
