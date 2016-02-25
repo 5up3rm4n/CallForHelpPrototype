@@ -1,46 +1,172 @@
-<!DOCTYPE>
-<html>
-    <body>
-  <div class= "nav" >
-    <div class= "container">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Light</title>
+<style type="text/css">
+.jumbotron .container p a {
+	font-family: Corbel;
+}
+.jumbotron .container h1 {
+	font-family: Corbel;
+}
+.nav .container .jumbotron .container a li {
+	font-family: Corbel;
+}
+.jumbotron .container h1 p a ul li h3 {
+	font-family: Corbel;
+}
+.jumbotron .container a li {
+	font-family: Corbel;
+}
+.jumbotron .container h3 {
+	font-family: Corbel;
+	font-size: x-large;
+}
+.jumbotron .container p {
+	font-family: Corbel;
+}
+.jumbotron .container h1 {
+	font-size: xx-large;
+	font-family: Corbel;
+}
+</style>
+
+<style>
+ .jumbotron .container p   {background-color:#DDD;
+ }
+ .jumbotron .container a   {background-color:#DDD;
+ }
+ .jumbotron .container h1  {background-color:#DDD;
+ }
+ .jumbotron .container h3  {background-color:#DDD;
+ }
+ .jumbotron .container ul  {background-color:#DDD;
+ }
+ .jumbotron .container li  {background-color:#DDD;
+ }
+ body  {background-color:#DDD;
+	    font-family: Corbel;
+ }
+ </style>
+ 
+ 
+ <style>
+ .jumbotron .container ul  {text-decoration:underline;
+ }
+ .jumbotron .container h3  {text-decoration:underline;
+ }
+ .jumbotron .container h1  {text-decoration:underline;
+ }
+ </style>
+ 
+ <style>
+ .jumbotron .container ul {outline-color:#000
+ }
+ .jumbotron .container h3 {outline-color:#000
+ }
+ </style>
+</head>
+
+<body>
+ <div class= "nav" >
+   <div class= "container">
+   
+   <div class="jumbotron">
+   	<div class="container">
+    	<form class="jumbotron">
+          <input type="text" placeholder="Search Bright Tunnel" required>
+          <input type="button" value="Search">
+        </form>
+	</div>
+</div>
+
+<div class="jumbotron">
+	<div class="container">
+	  <ul class= "jumbotron">
+	  <ul class= "container">
+	    <a href="#anyword">
+       	<li> Sign Up/Log In</li>
+       	<li> Volunteer </li>
+       	<li>Sign a Petition</li>
+       	<li>Contact Us</li>
+       	<li> Help </li>
+        </a>
+       </ul>
+     </ul>
+   </div>
+</div>
   
-      <ul>
-        <li> Home </li>
-        <li> About </li>
-        <li> Contact Us </li>
-      </ul>
-    
+  <div class= "jumbotron">
+    <div class= "container">
+      <h1 align="center">Light</h1>
+      <p> Talk to people that will listen and take you seriously when you are being bullied or you see someone being bullied. </p>
     </div>
   </div>
-  
-<div class= "jumbotron">
-  <div class= "learn-more">
+  <div class= "jumbotron">
     <div class= "container">
-      <h1> Call For Help </h1>
-      <p> Talk to people the will listen and take you seriously when you are being discriminated against or you see someone being discriminated against. </p>
+      <h3 align="center">Talk</h3>
+      <p>Talk anonymously to our volunteers about what problems you may be facing.</p>
     </div>
-  </div>
-  <div>
-    <h3>Talk</h3>
-    <p>Talk anonymously to our volunteers about what problems you may be facing.</p>
   </div>
   
   <div class= "jumbotron">
     <div class= "container">
-        <h3> Volunteer </h3>
-        <p> Volunteer to speak to people all over each with a different story </p>
-        <p>
-        <a> Learn more about Volunteering here </a>
-        </p>
-    </div>
-  </div>
-  
-  <div class= "jumbotron">
-    <div class= "container">
-      <h3> Sign a petition </h3>>
-      <p> Sign a petition against bullying in your area </p>
+      <h3 align="center"> Volunteer </h3>
+      <p> Volunteer to help someone out there that's being bullied and make new friends all over with different stories to share.</p>
       <p>
-      <a> SHign a Petition HERE! </a>
+      <a href="#anyword" class="container">Learn about volunteering at Light here</a>
       </p>
-    </body>
+    </div>
+  </div>
+  
+  <div class= "jumbotron">
+    <div class= "container">
+      <h3 align="center"> Sign a Petition </h3>
+      <p> Sign a petition against bullying in your area.</p>
+      <p>
+      <a href="#anyword">Sign a petition here</a>
+      </p>
+    </div>
+</div>
+    
+    <div class= "jumbotron">
+      <div class= "container">
+        <h3 align="center"> Communication Portal </h3>
+        <p>
+        <a> Communicate with others and share your stories </a>
+        and make new friends with a similar story.</p>
+        <p>
+        <a href="#anyword">Communicate here</a></p>
+      </div>
+     </div>
+   </div>
+    
+    <div class= "jumbotron">
+      <div class= "container">
+		<h3 align="center"> Help </h3>
+        <p>
+        <a href="#anyword"> Help </a>
+        </p>
+      </div>
+   </div>
+    <div class= "jumbotron">
+      <div class= "container">
+        <p>
+        <a href="#anyword" class="container">Report abuse/cyber-bullying here</a>
+        </p>
+      </div>
+    </div>
+</div>
+    
+<div class="jumbotron">
+    	<div class="container">
+        	<a href="#anyword">
+   	    	<li> Report bugs</li>
+        	<li> Select language</li>
+            </a>
+      	</div>
+</div>
+</div>
+  </body>
 </html>
